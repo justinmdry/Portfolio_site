@@ -1,7 +1,7 @@
 function TimeLine(){
     return(
         <div className="d-flex flex-column space-y-3 mt-2">
-            <h2 className="fs-5 font-monospace fw-bold text-decoration-underline">
+            <h2 className="fs-5 font-monospace fw-bold fst-italic">
                 Timeline: 
             </h2>
             <ul className="fs-5 font-monospace space-y-1 list-disc pl-5">
@@ -34,7 +34,7 @@ function TimeLine(){
                     </div>
                     <p className=" px-3 fs-6 font-monospace text-secondary">
                         I began programming in Grade 10 when I took an introduction to computer science course.
-                        My Great teacher at the time made it fun and interesting, giving us projects that made learning
+                        My great teacher at the time made it fun and interesting, giving us projects that made learning
                         Object Orientated programming natural and easy to understand. I was immediately hooked! 
                     </p>
                 </li>
