@@ -12,7 +12,7 @@ function Socials(){
                 </a>
             </span>
             <span className="position-relative d-flex flex-shrink-0 overflow-hidden rounded-circle border border-dark float-start" style={{ height: '60px', width: '60px' }}>
-                <a href="https://linkedin.com/in/justin-m-97312a266">
+                <a href="https://www.linkedin.com/in/justinjmcke">
                     <img src="assets\linkedIn.png" className="img-fluid w-100 h-100" alt="LI" />
                 </a>
             </span>
