@@ -11,9 +11,9 @@ function TimeLine(){
                         <p className="fs-6">Present</p>
                     </div>
                     <p className=" px-3 fs-6 font-monospace text-secondary">
-                        We’re FDM, an award-winning global business and technology consultancy. For over 30 years we’ve been powering the people behind tech and innovation. We collaborate with world-leading companies to identify the expertise they need, exactly when they need it.
+                        We’re FDM, an award-winning global business and technology consultancy. For over 30 years we’ve been powering the people behind tech and innovation. We collaborate with world-leading companies to identify the expertise they need, exactly when they need it. <br/>
 
-                        We have helped successfully launch over 25,000 careers globally to date and we are a trusted partner to 300+ companies worldwide.
+                        We have helped successfully launch over 25,000 careers globally to date and we are a trusted partner to 300+ companies worldwide.<br/>
 
                         Diversity, equity and inclusivity is at the core of everything we do. We have 2500+ employees worldwide, with over 80 nationalities working together as a team. From our origins in Brighton, UK, we now have 19 centers located across Europe, North America, and Asia-Pacific and are now on the FTSE4Good Index.
 
