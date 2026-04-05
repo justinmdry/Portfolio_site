@@ -6,7 +6,7 @@ function Intro(){
             </span>
             <div>
                 <h1 className="fs-5 mt-3">Justin J McKendry</h1>
-                <p className="fs-6">Software Developer</p>
+                <p className="fs-6">Software Engineering Consultant</p>
             </div>
         </div>    
     );
